@@ -1,4 +1,4 @@
-# INTRIVIA 2026 
+git checkout -b intrivia # INTRIVIA 2026 
 
 ## Identitas Diri 
 | Nama Lengkap | NIM | Program Studi | Cluster | 
@@ -11,3 +11,6 @@
 ## Kesan Pesan Cluster [14] Sejauh Ini 
 [Berada di Cluster 14 membuat saya merasa punya teman dan tempat bertanya di lingkungan yang masih baru. Anggota cluster saling membantu ketika ada yang kesulitan mengerjakan tugas, dan kerja sama tim terasa semakin solid dari waktu ke waktu. Kakak pendamping juga sabar membimbing dan memberi arahan. Pesan saya untuk cluster, mari terus kompak, aktif berkomunikasi, dan saling mendukung sampai akhir rangkaian kegiatan. Semoga hubungan pertemanan ini tetap terjaga setelah INTRIVIA selesai.]
 git add . 
+
+## Harapan Kuliah 
+[Mendapatkan nilai yang memuaskan serta lulus tepat waktu, dan menghasilkan relasi seluas luasnya memenangkan berbagai perlombaan] 
